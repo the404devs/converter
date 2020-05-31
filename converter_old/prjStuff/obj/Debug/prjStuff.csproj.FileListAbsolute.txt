@@ -1,0 +1,12 @@
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\bin\Debug\prjStuff.exe.config
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\bin\Debug\prjStuff.exe
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\bin\Debug\prjStuff.pdb
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.exe
+E:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.pdb
+W:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\bin\Debug\prjStuff.exe.config
+W:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.exe
+W:\ICS\UNITS\UNIT4\LESSON2\prjStuff\prjStuff\obj\Debug\prjStuff.pdb

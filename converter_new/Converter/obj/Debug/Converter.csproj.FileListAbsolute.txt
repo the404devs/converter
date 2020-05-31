@@ -1,0 +1,14 @@
+W:\Converter\Converter\Converter\bin\Debug\Converter.exe.config
+W:\Converter\Converter\Converter\bin\Debug\Converter.exe
+W:\Converter\Converter\Converter\bin\Debug\Converter.pdb
+W:\Converter\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+W:\Converter\Converter\Converter\obj\Debug\Converter.Converter.resources
+W:\Converter\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+W:\Converter\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+W:\Converter\Converter\Converter\obj\Debug\Converter.exe
+W:\Converter\Converter\Converter\obj\Debug\Converter.pdb
+W:\Converter\Converter\Converter\bin\Debug\Converter.exe.manifest
+W:\Converter\Converter\Converter\bin\Debug\Converter.application
+W:\Converter\Converter\Converter\obj\Debug\Converter.TrustInfo.xml
+W:\Converter\Converter\Converter\obj\Debug\Converter.exe.manifest
+W:\Converter\Converter\Converter\obj\Debug\Converter.application
